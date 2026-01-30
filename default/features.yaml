@@ -12,3 +12,7 @@ flags:
         radio_btn: false
         style:
             color: white
+      rollouts:
+        - threshold:
+            percentage: 50
+            value: true
