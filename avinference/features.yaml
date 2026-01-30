@@ -1,4 +1,9 @@
 version: "1.5"
 namespace:
-  key: avinference
-  name: avinference
+    key: avinference
+    name: avinference
+flags:
+    - key: scenarios_config
+      name: scenarios_config
+      type: VARIANT_FLAG_TYPE
+      enabled: false
