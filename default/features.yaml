@@ -1,0 +1,9 @@
+version: "1.5"
+namespace:
+    key: default
+    name: Default
+flags:
+    - key: dynamic_menu_enabled
+      name: dynamic_menu_enabled
+      type: BOOLEAN_FLAG_TYPE
+      enabled: false
