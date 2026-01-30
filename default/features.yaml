@@ -6,7 +6,7 @@ flags:
     - key: dynamic_menu_enabled
       name: dynamic_menu_enabled
       type: BOOLEAN_FLAG_TYPE
-      enabled: false
+      enabled: true
       metadata:
         dropdown_btn: false
         radio_btn: false
