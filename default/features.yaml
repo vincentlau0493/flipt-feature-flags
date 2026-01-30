@@ -16,3 +16,8 @@ flags:
         - threshold:
             percentage: 50
             value: true
+segments:
+    - key: blue-crowd
+      name: blue-crowd
+      description: I am just making up some words
+      match_type: ALL_MATCH_TYPE
